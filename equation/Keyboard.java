@@ -1,3 +1,5 @@
+package equation;
+
 import java.util.Scanner;
 
 public class Keyboard {
